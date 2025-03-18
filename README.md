@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Christos Nikitakis!</h1>
-<h4>🎓 Currently studying Computer Science at University of Piraeus, Greece. </h4>
 
-<h4> 🌱 Aspiring Android Developer actively enhancing skills in Java programming language and Android Studio, dedicated to acquiring comprehensive knowledge and hands-on experience to create impactful mobile applications. </h4>
+<h5> Aspiring Android Developer actively enhancing skills in Java programming language and Android Studio, dedicated to acquiring comprehensive knowledge and hands-on experience to create impactful mobile applications. </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
